@@ -61,3 +61,6 @@
 [submodule "plugins/couchdb"]
 	path = plugins/couchdb
 	url = https://github.com/boundary/boundary-plugin-couchdb
+[submodule "plugins/tomcat-manager"]
+	path = plugins/tomcat-manager
+	url = https://github.com/GabrielNicolasAvellaneda/boundary-tomcat-manager-plugin
